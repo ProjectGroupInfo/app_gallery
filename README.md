@@ -3,11 +3,11 @@
 app gallery link: https://projectgroupinfo-apps-gallery-apps-gallery-k7l311.streamlit.app/
 
 -------------------------
--------------------------
 
 Please replace api_key.txt with your openai API key to make the PDF Summarizer and Question Answering Apps worked.
 https://platform.openai.com/account/api-keys
 
+-------------------------
 -------------------------
 
 PDF to Image converter: https://projectgroupinfo-apps-gallery-pdf-to-imgpdf2img-swzak6.streamlit.app/
