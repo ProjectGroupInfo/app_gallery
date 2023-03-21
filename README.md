@@ -2,7 +2,8 @@
 
 app gallery
 
-Please replace api_key with your open ai API key to make the PDF Summarizer app and Question Answering App worked:https://platform.openai.com/account/api-keys
+Please replace api_key.txt with your openai API key to make the PDF Summarizer and Question Answering Apps worked.
+https://platform.openai.com/account/api-keys
 
 Other apps doesn't require API key
 -------------------------
