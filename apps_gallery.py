@@ -32,13 +32,13 @@ with col2:
 
 with col3:    
     st.markdown(f'[![PDF Summarizer]({img3_url})](https://projectgroupinfo-apps-gallery-pdf-summarypdf-summary-btwsj3.streamlit.app/)')
-    st.write("PDF Summarizer")
+    st.write("PDF Summarizer - will not work without openai API KEY")
     st.markdown('[Go to App →](https://projectgroupinfo-apps-gallery-pdf-summarypdf-summary-btwsj3.streamlit.app/)')
     st.markdown('[View source code →](https://github.com/ProjectGroupInfo/apps_gallery/tree/main/pdf_summary)')    
     
 with col4:    
     st.markdown(f'[![Question Answering App]({img4_url})](https://projectgroupinfo-apps-gallery-qnaqa-gpt-urpko3.streamlit.app/)')
-    st.write("Question Answering App")
+    st.write("Question Answering App - - will not work without openai API KEY")
     st.markdown('[Go to App →](https://projectgroupinfo-apps-gallery-qnaqa-gpt-urpko3.streamlit.app/)')
     st.markdown('[View source code →](https://github.com/ProjectGroupInfo/apps_gallery/tree/main/QnA)')            
 
@@ -58,18 +58,18 @@ img8_url = "https://github.com/ProjectGroupInfo/apps_gallery/blob/main/img/img8.
 img9_url = "https://github.com/ProjectGroupInfo/apps_gallery/blob/main/img/img9.jpg?raw=true"
 img10_url = "https://github.com/ProjectGroupInfo/apps_gallery/blob/main/img/img10.jpg?raw=true"
 
-# Display the images and create clickable links
-with col6:
-    st.write("Speech to text converter")
+# # Display the images and create clickable links
+# with col6:
+#     st.write("Speech to text converter")
     
-with col7:
-    st.write("Extract Data from PDF")
+# with col7:
+#     st.write("Extract Data from PDF")
 
-with col8:    
-    st.write("Settlement Predictor App")
+# with col8:    
+#     st.write("Settlement Predictor App")
     
-with col9:    
-    st.write("Future App")
+# with col9:    
+#     st.write("Future App")
 
-with col10:
-    st.write("Other App")
+# with col10:
+#     st.write("Other App")
