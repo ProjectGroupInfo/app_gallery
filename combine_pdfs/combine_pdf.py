@@ -22,10 +22,10 @@ def main():
     st.write("For uploading Real Text PDFs only")
     st.write(" ")
     st.write("For scanned images PDFs, need to convert PDF to Image & Image to text first to be readable PDFs")
-    st.write("Upload up to 10 Real texts PDF files to combine:")
+    st.write("Upload up to 3 Real texts PDF files to combine:")
     
     files = []
-    for i in range(10):
+    for i in range(3):
         file = st.file_uploader(f"PDF file {i+1}", type="pdf", key=f"pdf_upload{i}")
         if file:
             files.append(file)
