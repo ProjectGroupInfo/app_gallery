@@ -21,7 +21,7 @@ img5_url = "https://github.com/ProjectGroupInfo/apps_gallery/blob/main/img/img5.
 with col1:
     st.markdown(f'[![PDF to Image converter]({img1_url})](https://projectgroupinfo-apps-gallery-pdf-to-imgpdf2img-swzak6.streamlit.app/)')
     st.write("PDF to Image converter")
-    st.markdown('[Go to App →](https://https://projectgroupinfo-apps-gallery-pdf-to-imgpdf2img-swzak6.streamlit.app/)')
+    st.markdown('[Go to App →](https://projectgroupinfo-apps-gallery-pdf-to-imgpdf2img-swzak6.streamlit.app/)')
     st.markdown('[View source code →](https://github.com/ProjectGroupInfo/apps_gallery/tree/main/pdf_to_img)')
     
 with col2:
