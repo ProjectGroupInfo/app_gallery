@@ -5,7 +5,7 @@ PDF to Image converter: https://projectgroupinfo-apps-gallery-pdf-to-imgpdf2img-
 
 Image to text converter: https://projectgroupinfo-apps-gallery-image-to-textimg2text-x340a3.streamlit.app/
 
-PDF Summarizer:
+PDF Summarizer: https://projectgroupinfo-apps-gallery-pdf-summarypdf-summary-btwsj3.streamlit.app/
 
 Question Answering:
 
