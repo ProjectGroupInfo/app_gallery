@@ -5,6 +5,8 @@ from PIL import Image
 st.set_page_config(page_title="Apps Gallery", page_icon=":guardsman:", layout="wide")
 st.title("Apps Gallery")
 st.write("Here are some of the apps:")
+st.write("Code links:")
+st.write('https://github.com/ProjectGroupInfo/apps_gallery/blob/main/README.md/')
 
 col1, col2, col3, col4, col5 = st.columns(5)
 
