@@ -7,6 +7,6 @@ Image to text converter: https://projectgroupinfo-apps-gallery-image-to-textimg2
 
 PDF Summarizer: https://projectgroupinfo-apps-gallery-pdf-summarypdf-summary-btwsj3.streamlit.app/
 
-Question Answering:
+Question Answering: https://projectgroupinfo-apps-gallery-qnaqa-gpt-urpko3.streamlit.app/
 
 PDF combiner: https://projectgroupinfo-apps-gallery-combine-pdfscombine-pdf-7fou56.streamlit.app/
