@@ -1,6 +1,6 @@
 # app_gallery
 
-app gallery
+app gallery link: https://projectgroupinfo-apps-gallery-apps-gallery-k7l311.streamlit.app/
 
 Please replace api_key.txt with your openai API key to make the PDF Summarizer and Question Answering Apps worked.
 https://platform.openai.com/account/api-keys
