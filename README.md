@@ -5,7 +5,6 @@ app gallery
 Please replace api_key.txt with your openai API key to make the PDF Summarizer and Question Answering Apps worked.
 https://platform.openai.com/account/api-keys
 
-Other apps doesn't require API key
 -------------------------
 
 PDF to Image converter: https://projectgroupinfo-apps-gallery-pdf-to-imgpdf2img-swzak6.streamlit.app/
